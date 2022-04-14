@@ -1,0 +1,287 @@
+Marca;Modelo;Estado;Cilindraje;Tipo_Transmision;Tipo _Combustible;Pais_Origen;Pais_Adquisicion;Nivel_Comercial;Valor_FOB
+Audi;5;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;12300
+Peterbilt;335;Nuevo;1.3;;Gasolina;Brazil;Brazil;Distribuidor;10832
+Hino;338;Nuevo;1.8;MT;Gasolina;USA;USA;P.  Natural;7191
+Peterbilt;587;Nuevo;1.3;;Gasolina;Brazil;Brazil;Distribuidor;12605
+International;4300;Nuevo;2.7;MT;Gasolina;USA;Alemania;Distribuidor;5204
+International;4900;Nuevo;1.6;AT;Gasolina;Alemania;Alemania;Distribuidor;8618
+International;8100;Nuevo;1.6;AT;Gasolina;India;India;Distribuidor;4085
+International;8600;Nuevo;2.5;MT;Gasolina;Korea;Korea;Distribuidor;9769
+International;9100;Nuevo;2.4;AT;Gasolina;Korea;Korea;Distribuidor;8733
+International;9200;Nuevo;2.2;MT;Diesel;Korea;Korea;Distribuidor;6791
+FreightLiner;12700;Nuevo;1.4;MT;Gasolina;Japon;Yokohama;Distribuidor;12035
+TRAILMOBILE;01JA-1UAY;Nuevo;2;;Gasolina;USA;USA;P.  Natural;7600
+THEURER;220-CC-40SFW;Nuevo;2;;Gasolina;Alemania;Alemania;Distribuidor;7407
+Utility;3000R VS2RA;Nuevo;3;;Gasolina;USA;USA;P.  Natural;11800
+John Deere;310G;Nuevo;1.6;AT;Gasolina;Alemania;Alemania;Distribuidor;4987
+BROWN;40 PI-H2;Nuevo;1.4;MT;Gasolina;Japon;Japon;Distribuidor;11578
+Case;580 SUPER M;Nuevo;1.8;MT;Gasolina;Japon;Japon;Distribuidor;8435
+Case;580N;Nuevo;1.8;AT;Gasolina;Japon;Japon;Distribuidor;10156
+John Deere;6105J;Nuevo;1.6;AT;Gasolina;Alemania;Alemania;Distribuidor;7850
+KTM;690 ENDURO R;Nuevo;3;;Gasolina;Japon;Japon;Distribuidor;9369
+International;8200 6X4;Nuevo;2.2;MT;Gasolina;Korea;Korea;Distribuidor;10356
+International;9200I;Nuevo;2.7;AT;Diesel;Korea;Korea;Distribuidor;11359
+Hyundai;ACCENT;Nuevo;1.5;AT;Diesel;USA;USA;Distribuidor;9473
+HYUNDAI;ACCENT HB;Nuevo;1.4;AT;Gasolina;USA;USA;Distribuidor;6106
+TOYOTA;AGYA;Nuevo;1.8;;Gasolina;Alemania;Alemania;Distribuidor;5790
+Nissan;ALMERA SG;Nuevo;1.4;;Gasolina;Francia;Francia;Distribuidor;9901
+Suzuki;ALTO;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;7945.57
+TVS;APACHE RTR 200;Nuevo;1.5;;Gasolina;USA;USA;P.  Natural;9500
+Sterling;AT9500;Nuevo;1.5;;Gasolina;Japon;Japon;Distribuidor;8822.69
+HYUNDAI;ATOS;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;11025
+FOTON;AUMARK;Nuevo;1.4;MT;Gasolina;Japon;Yokohama;Distribuidor;10430
+Chevrolet;AVEO;Nuevo;1.8;AT;Gasolina;Japon;Japon;Distribuidor;6930
+Mazda;B2500;Nuevo;1.6;;Diesel;Japon;Japon;Distribuidor;11846
+SUZUKI;BALENO GLX;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;9356.09
+Chevrolet;BEAT;Nuevo;1.8;AT;Diesel;Japon;Japon;Distribuidor;6070
+KIA;BONGO III;Nuevo;2;AT;Gasolina;Alemania;Alemania;P. Natural;6665
+Mazda;BT-50;Nuevo;1.6;;Diesel;Japon;Japon;Distribuidor;4968
+Mercedes Benz;BUSETA ZLO 915;Nuevo;2.5;;Gasolina;Mexico;Mexico;Distribuidor;7014
+FreightLiner;C120064 ST;Nuevo;1.8;AT;Gasolina;Japon;Yokohama;Distribuidor;5978
+FreightLiner;C120064ST;Nuevo;1.8;AT;Gasolina;Japon;Yokohama;Distribuidor;10861
+Freightliner;CABEZAL;Nuevo;1.8;AT;Gasolina;Japon;Yokohama;Distribuidor;11657
+Mitsubishi;CANTER;Nuevo;1.8;AT;Gasolina;Francia;Francia;Distribuidor;9054
+FUSO;CANTER 2.7 TON;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;6000
+FUSO;CANTER FE84;Nuevo;1.4;AT;Gasolina;USA;USA;Distribuidor;11025
+FUSO;CANTER FE85;Nuevo;1.4;AT;Gasolina;USA;USA;Distribuidor;11502
+Gmc;CANYON EXT CAB 4WD;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;9643
+CHEVROLET;CAPTIVA;Nuevo;1.8;AT;Gasolina;Japon;Japon;P.  Natural;10866.7
+FREIGHTLINER;CASCADIA;Nuevo;1.8;MT;Gasolina;Japon;Yokohama;Distribuidor;8407
+FREIGHTLINER;CASCADIA 113;Nuevo;1.4;MT;Gasolina;Japon;Yokohama;Distribuidor;4945
+FreightLiner;CASCADIA PX125042ST;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;Distribuidor;6209
+Porsche;CAYENNE COUPE;Nuevo;2.4;;Gasolina;Colombia;Colombia;Distribuidor;9191
+Honda;CB190R;Nuevo;1.5;AT;Gasolina;USA;USA;Distribuidor;9350
+Suzuki;CELERIO;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;10930.54
+FREIGHTLINER;CENTURY;Nuevo;1.4;MT;Gasolina;Japon;Hamamatsu;Distribuidor;7104
+Freightliner;CENTURY CLAS;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;Distribuidor;7644
+Mack;CH 613;Nuevo;1.6;;Gasolina;Japon;Japon;P. Natural;10193
+Jeep;CHEROKEE;Nuevo;3;AT;Gasolina;Alemania;USA;P. Natural;9378
+TRAILMASTER TANK;CISTERNA;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;9358
+HONDA;CIVIC;Nuevo;1.5;MT;Gasolina;USA;USA;Distribuidor;5446
+Freightliner;CL 120;Nuevo;1.8;AT;Gasolina;Japon;Hamamatsu;Distribuidor;5202
+FreightLiner;CL112064ST COLUMBIA;Nuevo;1.8;MT;Gasolina;Japon;Hamamatsu;Distribuidor;4572
+FreightLiner;CL120064S T COLUMBIA;Nuevo;1.8;AT;Gasolina;Japon;Hamamatsu;Distribuidor;8285
+FreightLiner;CL120064ST COLUMBIA CL120;Nuevo;1.8;MT;Gasolina;Japon;Hamamatsu;Distribuidor;12252
+Chevrolet;CMV;Nuevo;1.8;MT;Diesel;Japon;Japon;Distribuidor;10612
+TOYOTA;COASTER;Nuevo;2;;Gasolina;Mexico;Mexico;Distribuidor;8144
+Chevrolet;COLORADO;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;7104
+Freightliner;COLUMBIA;Nuevo;1.6;MT;Gasolina;Japon;Hamamatsu;Distribuidor;10933
+FreightLiner;COLUMBIA 120;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;Distribuidor;8069
+FreightLiner;COLUMBIA CL120064ST;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;Distribuidor;10628
+CONTENEDOR;CONTENEDOR;Nuevo;1.6;AT;Gasolina;Japon;Yokohama;Distribuidor;9779
+Toyota;COROLLA;Nuevo;2;;Gasolina;Mexico;Mexico;Distribuidor;12248
+Toyota;COROLLA CROSS;Nuevo;2.5;;Gasolina;Belgica;Belgica;Distribuidor;8317
+Hyundai;COUNTY;Nuevo;1.4;AT;Gasolina;USA;USA;P.  Natural;6706
+Caterpillar;CP 433C;Nuevo;1.8;AT;Gasolina;Japon;Japon;Distribuidor;4875
+Honda;CRB500 RA;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;9482
+HYUNDAI;CRETA;Nuevo;1.4;AT;Gasolina;USA;USA;P.  Natural;4600
+Honda;CRF230F;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;6203
+Honda;CRV;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;12336
+HONDA;CR-V;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;10367
+Mack;CS 200P;Nuevo;2;;Gasolina;Japon;Japon;P. Natural;6461
+Chevrolet;CVJ 104333;Nuevo;1.4;MT;Gasolina;Japon;Japon;Distribuidor;8837
+Isuzu;D MAX;Nuevo;1.8;MT;Gasolina;Brazil;Brazil;Distribuidor;12527
+FreightLiner;D120042ST;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;P.  Natural;12361
+FreightLiner;D120064S T CENTURY CLASS;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;P.  Natural;11569
+FreightLiner;D120064ST;Nuevo;1.4;AT;Gasolina;Japon;Hamamatsu;P.  Natural;6119
+Freightliner;D120064T;Nuevo;1.8;AT;Gasolina;Japon;Hamamatsu;Distribuidor;9838
+FREIGHTLIN;DESCONOCIDO;Nuevo;1.4;AT;Gasolina;Japon;Yokohama;Distribuidor;8507
+Mack;DM 690 S;Nuevo;1.6;;Gasolina;Korea;Korea;Distribuidor;7587.18
+Isuzu;DMAX;Nuevo;1.8;MT;Gasolina;Brazil;Brazil;Distribuidor;10612
+Isuzu;D-MAX;Nuevo;2.4;AT;Gasolina;USA;USA;Distribuidor;11767
+Isuzu;DMAX GT;Nuevo;2.4;AT;Gasolina;USA;USA;P. Natural;5676
+Isuzu;D-MAX GT;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;9562
+Isuzu;DMAX LS;Nuevo;1.8;AT;Gasolina;USA;USA;P. Natural;6038
+Isuzu;D-MAX LS;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;12137
+Isuzu;D-MAX RG;Nuevo;2;AT;Gasolina;Japon;Japon;Distribuidor;11697
+Honda;DREAM NEO 110;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;8109
+Mazda;E2200;Nuevo;1.8;;Gasolina;UK;UK;Distribuidor;6885
+Toyota;ECHO;Nuevo;2.4;;Gasolina;Belgica;Belgica;Distribuidor;5576
+Mitsubishi;ECLIPSE CROSS;Nuevo;2;;Gasolina;USA;USA;P. Natural;12801.5
+Hyundai;ELANTRA;Nuevo;1.4;MT;Gasolina;USA;USA;P.  Natural;12333
+Hyundai;ELANTRA GLS;Nuevo;1.5;MT;Gasolina;USA;USA;Distribuidor;7200
+Ford;EXPLORER;Nuevo;1.4;AT;Gasolina;Japon;Yokohama;Distribuidor;7644
+Ford;EXPLORER SPORT;Nuevo;1.4;MT;Gasolina;Japon;Yokohama;Distribuidor;7739
+Ford;F150;Nuevo;1.4;AT;Gasolina;Japon;Yokohama;Distribuidor;8514
+Byd;F3;Nuevo;1.8;AT;Gasolina;Japon;Japon;Distribuidor;8186
+Case;FARMALL 95;Nuevo;1.8;AT;Gasolina;Japon;Japon;Distribuidor;11136
+Hino;FB1817 TURBO INTERCOOLER;Nuevo;1.8;AT;Gasolina;USA;USA;P.  Natural;5083
+Hino;FC9JJSA;Nuevo;1.8;MT;Gasolina;USA;USA;P.  Natural;12064.2
+Hino;FD;Nuevo;1.8;MT;Gasolina;USA;USA;P.  Natural;11561
+Volvo;FE 42;Nuevo;3;;Gasolina;USA;USA;P.  Natural;11800
+MITSUBISHI FUSO;FE649;Nuevo;3;;Gasolina;Francia;Francia;Distribuidor;8901
+Hino;FG8JM7A-JG2;Nuevo;1.8;AT;Gasolina;USA;USA;P.  Natural;12416.07
+Honda;FIT;Nuevo;3;AT;Gasolina;USA;USA;P.  Natural;6070
+FreightLiner;FL70;Nuevo;1.6;AT;Gasolina;Japon;Hamamatsu;Distribuidor;10359
+FREIGHTLINER;FLC12064T;Nuevo;1.6;AT;Gasolina;Japon;Hamamatsu;Distribuidor;8080
+Freightliner;FLD 112;Nuevo;1.4;MT;Gasolina;Japon;Hamamatsu;Distribuidor;6548
+Freightliner;FLD 120;Nuevo;1.4;MT;Gasolina;Japon;Hamamatsu;Distribuidor;6469
+FREIGHTLINER;FLD120;Nuevo;1.8;MT;Gasolina;Japon;Hamamatsu;Distribuidor;9967
+FreightLiner;FLD120 D132064T;Nuevo;1.8;MT;Gasolina;Japon;Hamamatsu;Distribuidor;6049
+Ford;FOCUS;Nuevo;1.4;AT;Gasolina;Japon;Yokohama;Distribuidor;7004
+Toyota;FORTUNER;Nuevo;2.4;;Gasolina;Belgica;Belgica;Distribuidor;9966
+Nissan;FRONTIER;Nuevo;1.6;;Gasolina;Argentina;Argentina;Distribuidor;11572
+Nissan;FRONTIER 4*4;Nuevo;2;;Gasolina;Francia;Francia;Distribuidor;11322
+Great Dane;FURGON;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;11579
+Mitsubishi;FUSO;Nuevo;2;;Gasolina;Japon;Japon;P. Natural;7063
+FUSO;FUSO FI;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;4600
+Yamaha;FZN150D;Nuevo;2;;Gasolina;USA;USA;P.  Natural;7600
+Suzuki;GIXXER;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;9722.2
+Honda;GL 150 CARGO;Nuevo;2.8;AT;Gasolina;USA;USA;Distribuidor;10866.7
+Mercedes Benz;GLE 53 AMG 3.0L 4*4;Nuevo;2.5;;Gasolina;Mexico;Mexico;Distribuidor;9651
+Suzuki;GN125F;Nuevo;2.5;;Gasolina;Japon;Japon;Distribuidor;10197.55
+GL300;GPS PORTATIL;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;8000
+Hyundai;GRAND I 10;Nuevo;3;AT;Gasolina;USA;USA;P.  Natural;7111
+HYUNDAI;GRAND I10;Nuevo;2;MT;Gasolina;Alemania;Alemania;Distribuidor;8970
+Hyundai;GRAND I-10;Nuevo;1.8;MT;Gasolina;Alemania;Alemania;P.  Natural;6349
+HYUNDAI;GRAND L-10;Nuevo;2;MT;Gasolina;Alemania;Alemania;Distribuidor;12209
+Suzuki;GSX250FRL;Nuevo;2;;Gasolina;Japon;Japon;Distribuidor;7851.09
+Genesis;GXT-250R;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;7997
+Hyundai;H-1;Nuevo;3;AT;Diesel;Alemania;Alemania;Distribuidor;9757
+Hyundai;H100;Nuevo;2.6;AT;Gasolina;Alemania;Alemania;Distribuidor;7941
+Hyundai;H100 GRACE GRAND SAL;Nuevo;1.8;MT;Gasolina;Alemania;Alemania;P.  Natural;10450
+Hyundai;H1-GL;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;6460
+BACKHOE LOADER;H940C;Nuevo;1.4;MT;Gasolina;Japon;Japon;Distribuidor;11122
+SPRESSO GL MT;HATCHBACK;Nuevo;1.5;;Gasolina;Japon;USA;P. Natural;5535
+HYUNDAI;HD45;Nuevo;2;AT;Gasolina;Alemania;Alemania;Distribuidor;7184
+HYUNDAI;HD-65;Nuevo;2;MT;Gasolina;Alemania;Alemania;P.  Natural;9143
+Hyundai;HD78;Nuevo;2;AT;Gasolina;Alemania;Alemania;P.  Natural;4823
+JAC;HFC;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;11067
+JAC;HFC1037D3KST;Nuevo;1.8;AT;Gasolina;Alemania;Alemania;Distribuidor;5377
+JAC;HFC1042KN;Nuevo;1.8;AT;Gasolina;Alemania;Mexico;P. Natural;7230
+Toyota;HI LUX;Nuevo;2.4;;Gasolina;Belgica;Belgica;Distribuidor;11656
+Toyota;HIACE;Nuevo;2.5;;Gasolina;Belgica;Belgica;Distribuidor;12260
+Toyota;HIACE COMMUTER;Nuevo;1.8;;Gasolina;Japon;Japon;Distribuidor;12153
+Toyota;HIACE PANEL;Nuevo;1.4;;Gasolina;Japon;Japon;Distribuidor;9562
+TOYOTA;HILUX;Nuevo;1.4;;Gasolina;Japon;Japon;Distribuidor;5879
+International;HV607;Nuevo;2;AT;Diesel;Korea;Korea;Distribuidor;11274
+Hyundai;I 10;Nuevo;2.5;MT;Gasolina;Alemania;Argentina;P. Natural;9639
+Hyundai;I 20;Nuevo;2.5;MT;Gasolina;USA;USA;Distribuidor;12262
+Hyundai;I 30;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;5435
+HYUNDAI;I-10;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;5228
+Subaru;IMPREZA;Nuevo;1.8;;Gasolina;Japon;Japon;Distribuidor;8047.49
+Hyundai;IONIQ;Nuevo;3;MT;Gasolina;Alemania;Alemania;Distribuidor;10257
+Suzuki;JEEP;Nuevo;2;;Gasolina;Japon;Japon;Distribuidor;6702
+Suzuki;JIMMY;Nuevo;2;;Gasolina;Japon;Japon;Distribuidor;5282
+Suzuki;JIMNY;Nuevo;2;;Gasolina;Mexico;Mexico;Distribuidor;7702
+Jmc;JX1034TSEB;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;9446
+KIA;K 2700;Nuevo;3;AT;Gasolina;Japon;Japon;Distribuidor;11198.76
+KIA;K 2700 L;Nuevo;3;AT;Gasolina;Japon;Japon;Distribuidor;11958.15
+KIA;K2700;Nuevo;2;MT;Diesel;Japon;Japon;Distribuidor;6912
+KIA;K2700 L;Nuevo;2;MT;Gasolina;Japon;Japon;Distribuidor;11641
+Kia;K3000S;Nuevo;2.5;AT;Gasolina;Japon;Japon;Distribuidor;12047.88
+KIA;K3000S L;Nuevo;2;AT;Diesel;Japon;Japon;Distribuidor;6086
+Nissan;KICKS;Nuevo;2;;Gasolina;Francia;Francia;Distribuidor;10075
+Mahindra;KUV;Nuevo;1.6;;Diesel;España;España;Distribuidor;10302
+Mahindra;KUV100;Nuevo;2;;Diesel;Japon;Japon;P. Natural;5284
+Toyota;L/C PRADO;Nuevo;1.4;;Gasolina;USA;USA;Distribuidor;8900
+MITSUBISHI;L200;Nuevo;1.6;;Gasolina;Argentina;Argentina;Distribuidor;7707
+Mitsubishi;L200 GLS 4WD;Nuevo;1.6;;Gasolina;Argentina;Argentina;Distribuidor;10792
+Mitsubishi;L200 GLX 4WD;Nuevo;3;;Gasolina;Francia;Francia;Distribuidor;9410
+Toyota;LAND CRUISER;Nuevo;1.5;;Gasolina;USA;USA;Distribuidor;6432
+TOYOTA;LAND CRUISER PRADO;Nuevo;1.5;;Gasolina;USA;USA;Distribuidor;9065
+Sterling;LT9500;Nuevo;1.5;;Gasolina;Japon;Japon;Distribuidor;10571.14
+Freightliner;M2;Nuevo;1.8;MT;Gasolina;Japon;Hamamatsu;Distribuidor;10855
+Mazda;MAZDA 3;Nuevo;2.3;;Gasolina;UK;UK;Distribuidor;12188
+BERTRAM;MERCURY MARINE MOTOR;Nuevo;1.4;AT;Gasolina;Japon;Japon;P.  Natural;10612
+Mitsubishi;MIRAGE;Nuevo;2;;Gasolina;Francia;Francia;Distribuidor;4936
+DUCATI;MONSTER;Nuevo;1.6;AT;Diesel;Japon;Yokohama;Distribuidor;6209
+Yamaha;MT-03;Nuevo;1.5;;Gasolina;USA;USA;P.  Natural;8495
+Nissan;N/D;Nuevo;2.5;MT;Gasolina;Alemania;Alemania;Distribuidor;8822
+Chevrolet;N300;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;10612
+Chevrolet;N300 MAX;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;6286
+Chevrolet;N400;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;9002
+CHEVROLET;N-400;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;12113
+Jmc;N900 STANDARD 2.8 C.S.;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;11280
+Volkswagen;NIVUS;Nuevo;1.4;MT;Gasolina;Japon;Japon;Distribuidor;8211
+Isuzu;NKR;Nuevo;2.4;AT;Gasolina;USA;USA;Distribuidor;11790
+Isuzu;NMR55E-221;Nuevo;2.4;MT;Gasolina;USA;USA;Distribuidor;12827
+Isuzu;NP;Nuevo;2.4;MT;Gasolina;USA;USA;Distribuidor;9818
+NISSAN;NP 300 FRONTIER;Nuevo;1.4;;Gasolina;Argentina;Argentina;Distribuidor;9901
+Nissan;NP300;Nuevo;1.6;;Diesel;Argentina;Argentina;Distribuidor;10588
+Isuzu;NPR;Nuevo;2.6;MT;Gasolina;Brazil;Brazil;Distribuidor;9720
+Isuzu;NPR TURBO INTERCOOLED;Nuevo;2;AT;Gasolina;Colombia;Colombia;Distribuidor;6567
+Isuzu;NPS;Nuevo;1.6;MT;Gasolina;Colombia;Colombia;Distribuidor;10714
+Isuzu;NQR;Nuevo;2;MT;Gasolina;Colombia;Colombia;Distribuidor;9545
+Nissan;NV200 S;Nuevo;2;;Diesel;Brazil;Brazil;Distribuidor;12761
+Jeep;PATRIOT;Nuevo;3;AT;Gasolina;Alemania;USA;P. Natural;9891
+FRUEHAUF;PF-F2-48;Nuevo;1.8;MT;Gasolina;USA;USA;Distribuidor;9526
+KIA;PICANTO;Nuevo;2;AT;Gasolina;Japon;Japon;Distribuidor;6841
+KIA;PICANTO LX;Nuevo;1.6;MT;Diesel;España;España;Distribuidor;5082
+Isuzu;PICK UP;Nuevo;1.8;MT;Gasolina;Colombia;Colombia;Distribuidor;6894
+Toyota;PRADO;Nuevo;2;;Gasolina;USA;USA;Distribuidor;10586
+International;PROSTAR;Nuevo;2;AT;Gasolina;Korea;Korea;Distribuidor;6070
+International;PROSTAR 113 6X4;Nuevo;1.6;MT;Gasolina;Brazil;Brazil;Distribuidor;10612
+International;PROSTAR 113 6X4 EAGLE;Nuevo;2.4;MT;Gasolina;Brazil;Brazil;Distribuidor;12527
+International;PROSTAR LIMITED;Nuevo;2.4;MT;Gasolina;Brazil;Brazil;Distribuidor;10612
+Volvo;PT240 R;Nuevo;1.4;;Gasolina;USA;USA;Distribuidor;6678
+BAJAJ;PULSAR 125NS;Nuevo;1.4;MT;Gasolina;Japon;Japon;Distribuidor;9235
+BAJAJ;PULSAR 200NS;Nuevo;1.4;MT;Gasolina;Japon;Japon;P.  Natural;9724
+FreightLiner;PX125064S T CASCADIA 125;Nuevo;1.8;AT;Gasolina;Japon;Hamamatsu;Distribuidor;9857
+Nissan;QASHQAI;Nuevo;2.2;;Diesel;Francia;Francia;Distribuidor;11049
+Isuzu;QKR;Nuevo;2;MT;Gasolina;Colombia;Colombia;Distribuidor;11442
+QINGLING;QL1040;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;7340.99
+QINGLING;QL10909KARY;Nuevo;2.4;;Gasolina;Japon;Japon;Distribuidor;7176.2
+Toyota;RAIZE;Nuevo;3;;Gasolina;USA;USA;P.  Natural;6070
+Land Rover;RANGE ROVER SPORT;Nuevo;3;;Gasolina;Japon;Japon;Distribuidor;12477.06
+POLARIS;RANGER CREW 570;Nuevo;1.5;;Gasolina;Argentina;Peru;P. Natural;12865.25
+Toyota;RAV 4;Nuevo;2.8;;Gasolina;USA;USA;Distribuidor;11799
+Toyota;RAV4 LE;Nuevo;1.5;;Diesel;USA;USA;Distribuidor;7639
+HYSTER;REMOLQUE;Nuevo;1.4;AT;Gasolina;USA;USA;Distribuidor;10301
+KIA;RIO;Nuevo;1.8;;Gasolina;Mexico;Mexico;Distribuidor;6923
+Nissan;ROGUE;Nuevo;1.6;;Gasolina;Brazil;Brazil;Distribuidor;9411
+Toyota;RUSH;Nuevo;1.5;;Diesel;USA;USA;Distribuidor;8292
+Toyota;RUSH- TE STATION;Nuevo;1.5;;Diesel;USA;USA;Distribuidor;9785
+Suzuki;S PRESSO GL;Nuevo;2;;Gasolina;Alemania;Alemania;Distribuidor;4571
+Hyundai;SANTA FE;Nuevo;3;MT;Gasolina;Alemania;Suiza;Distribuidor;6986
+NISSAN;SENTRA;Nuevo;2;;Gasolina;Argentina;Argentina;Distribuidor;11618
+Chevrolet;SILVERADO;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;10156
+KIA;SOLUTO;Nuevo;3;;Gasolina;Korea;Korea;Distribuidor;8385.31
+KIA;SONET;Nuevo;2;;Gasolina;Japon;Japon;Distribuidor;10550.85
+Chevrolet;SONIC;Nuevo;1.6;MT;Gasolina;Japon;Japon;Distribuidor;11136
+KIA;SORENTO;Nuevo;2.5;;Gasolina;Japon;Japon;Distribuidor;10252.06
+Kia;SOUL;Nuevo;2.5;;Diesel;España;España;P. Natural;6077
+CHEVROLET;SPARK;Nuevo;1.6;AT;Gasolina;Japon;Japon;Distribuidor;6578
+KIA;SPORTAGE;Nuevo;2.5;;Diesel;Japon;Japon;Distribuidor;12407
+SUZUKI;S-PRESSO;Nuevo;1.8;;Diesel;Alemania;Alemania;Distribuidor;9092
+FreightLiner;ST120064ST CENTURY CLASS;Nuevo;1.8;AT;Gasolina;USA;USA;Distribuidor;11561
+Suzuki;SWIFT;Nuevo;2;;Gasolina;Mexico;Mexico;Distribuidor;12033
+Kenworth;T700;Nuevo;2;AT;Gasolina;Alemania;Alemania;Distribuidor;8685
+Toyota;TACOMA;Nuevo;1.5;;Gasolina;USA;USA;Distribuidor;7988
+SERVI METAL;TANQUE CISTERNA;Nuevo;1.3;;Gasolina;Japon;Japon;Distribuidor;10011
+Daihatsu;TERIOS;Nuevo;1.6;MT;Gasolina;Japon;Yokohama;Distribuidor;6528
+Isuzu;TFS;Nuevo;1.8;AT;Gasolina;Alemania;Alemania;P. Natural;10204
+Hyundai;TIBURON GT;Nuevo;1.6;AT;Gasolina;Alemania;Alemania;Distribuidor;7553
+Chevrolet;TILTMASTER 4000 W4S042;Nuevo;1.8;AT;Gasolina;Japon;Yokohama;Distribuidor;8690
+Chevrolet;TRACKER;Nuevo;1.6;AT;Gasolina;Japon;Yokohama;P.  Natural;5109
+Chevrolet;TRAX;Nuevo;1.6;MC;Gasolina;Japon;Yokohama;P.  Natural;6209
+Hyundai;TUCSON;Nuevo;2.5;MT;Gasolina;Alemania;Alemania;Distribuidor;6954
+Hyundai;TUCSON GL;Nuevo;2.5;AT;Gasolina;Alemania;Alemania;Distribuidor;5628
+Husqvarna;TX;Nuevo;2.5;AT;Gasolina;USA;USA;Distribuidor;6195
+Nissan;URBAN;Nuevo;1.5;;Gasolina;España;España;Distribuidor;9549
+Nissan;URVAN;Nuevo;2.4;;Gasolina;Francia;Francia;Distribuidor;12246
+Hyundai;VENUE;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;10633
+Hyundai;VERNA;Nuevo;1.1;MT;Gasolina;Alemania;Alemania;Distribuidor;4782
+NISSAN;VERSA;Nuevo;1.6;;Gasolina;Venezuela;Venezuela;Distribuidor;12778.19
+Pontiac;VIBE;Nuevo;2.4;;Gasolina;Thailandia;Peru;P. Natural;5769
+Suzuki;VITARA;Nuevo;2.5;;Gasolina;Alemania;Alemania;Distribuidor;11041
+Gmc;W3500;Nuevo;1.5;MT;Gasolina;USA;USA;Distribuidor;12276
+Gmc;W4500;Nuevo;1.5;MT;Gasolina;USA;USA;Distribuidor;7366
+Komatsu;WB93H-5E0;Nuevo;2.5;;Gasolina;Mexico;Mexico;Distribuidor;12065
+Hino;WU710L-HKMQJ3;Nuevo;1.8;MT;Gasolina;Italia;Italia;Distribuidor;9747
+BMW;X5;Nuevo;1.4;AT;Gasolina;Japon;Japon;Distribuidor;12527
+Honda;XBLADE 160C;Nuevo;2.5;MT;Gasolina;USA;USA;Distribuidor;8837
+Volvo;XC40 T5 R HYBRID;Nuevo;1.5;;Diesel;USA;USA;Distribuidor;6240
+SUZUKI;XL7AT;Nuevo;2;;Gasolina;Mexico;Mexico;Distribuidor;7174
+Honda;XR 125 L;Nuevo;2.5;MT;Gasolina;USA;USA;Distribuidor;6439
+Honda;XRE300;Nuevo;2.5;MT;Gasolina;USA;USA;Distribuidor;5238
+Hino;XZU;Nuevo;1.4;AT;Gasolina;USA;USA;Distribuidor;4200
+Hino;XZU600L;Nuevo;1.4;AT;Diesel;USA;USA;Distribuidor;4600
+Hino;XZU650L-WKMMJ3;Nuevo;1.4;MT;Diesel;USA;USA;Distribuidor;6106
+Hino;XZU710L-WKFTL3;Nuevo;1.4;MT;Diesel;USA;USA;Distribuidor;9343
+Isuzu;XZU710L-WKMQJ3;Nuevo;3;AT;Gasolina;Alemania;Alemania;Distribuidor;7408
+Hino;XZU71L0L-HKFT;Nuevo;1.4;MT;Gasolina;USA;USA;Distribuidor;10624
+Hino;XZU720L-FT;Nuevo;1.5;MT;Gasolina;USA;USA;Distribuidor;12333
+TOYOTA;YARIS;Nuevo;1.5;;Gasolina;USA;USA;Distribuidor;9834
+Yamaha;YBR125;Nuevo;1.4;;Gasolina;USA;USA;Distribuidor;6205
+ZMOTO;ZMAX250;Nuevo;1.4;;Gasolina;USA;USA;P.  Natural;11886
